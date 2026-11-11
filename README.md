@@ -82,45 +82,23 @@ lucwieners@physik.uni-kassel.de
 
 1. Mohr, S. et al. **Accurate and efficient linear scaling DFT calculations with universal applicability.** Phys. Chem. Chem. Phys. 17, 31360–31370 (2015).
 
-
 1. de Luzuriaga, I. O. et al. **Semi-empirical and linear-scaling DFT methods to characterize duplex DNA and G-quadruplexes in the presence of interacting small molecules.** Phys. Chem. Chem. Phys. 24, 11510–11519 (2022).
 
+1. Gundelach, L., Fox, T., Tautermann, C. S. & Skylaris, C. K. **Protein-ligand free energies of binding from full-protein DFT calculations: convergence and choice of exchange–correlation functional.** Phys. Chem. Chem. Phys. 23, 9381–9393 (2021).
 
- 
+1. He, X. & Merz, K. M. Jr **Divide and conquer Hartree–Fock calculations on proteins.** J. Chem. theory Comput. 6, 405–411 (2010).
 
-Gundelach, L., Fox, T., Tautermann, C. S. & Skylaris, C. K. Protein-ligand free energies of binding from full-protein DFT calculations: convergence and choice of exchange–correlation functional. Phys. Chem. Chem. Phys. 23, 9381–9393 (2021).
+1. Guidon, M., Hutter, J. & VandeVondele, J. **Robust periodic Hartree–Fock exchange for large-scale simulations using Gaussian basis sets.** J. Chem. theory Comput. 5, 3010–3021 (2009).
 
+1. Cole, D. J. & Hine, N. D. **Applications of large-scale density functional theory in biology.** J. Phys. Condens. Matter 28, 393001 (2016).
+   
+1. Fedorov, D. G. & Kitaura, K. **Extending the power of quantum chemistry to large systems with the fragment molecular orbital method.** J. Phys. Chem. A 111, 6904–6914 (2007).
 
- 
+1. Shimojo, F., Kalia, R. K., Nakano, A. & Vashishta, P. **Divide-and-conquer density functional theory on hierarchical real-space grids: parallel implementation and applications.** Phys. Rev. B 77, 085103 (2008).
 
-He, X. & Merz, K. M. Jr Divide and conquer Hartree–Fock calculations on proteins. J. Chem. theory Comput. 6, 405–411 (2010).
+1. Schwegler, E. & Challacombe, M. **Linear scaling computation of the Hartree–Fock exchange matrix.** J. Chem. Phys. 105, 2726–2734 (1996).
 
-
- 
-
-Guidon, M., Hutter, J. & VandeVondele, J. Robust periodic Hartree–Fock exchange for large-scale simulations using Gaussian basis sets. J. Chem. theory Comput. 5, 3010–3021 (2009).
-
-
- 
-
-Cole, D. J. & Hine, N. D. Applications of large-scale density functional theory in biology. J. Phys. Condens. Matter 28, 393001 (2016).
-
-
-
-Fedorov, D. G. & Kitaura, K. Extending the power of quantum chemistry to large systems with the fragment molecular orbital method. J. Phys. Chem. A 111, 6904–6914 (2007).
-
-
-
-Shimojo, F., Kalia, R. K., Nakano, A. & Vashishta, P. Divide-and-conquer density functional theory on hierarchical real-space grids: parallel implementation and applications. Phys. Rev. B 77, 085103 (2008).
-
- 
-
-Schwegler, E. & Challacombe, M. Linear scaling computation of the Hartree–Fock exchange matrix. J. Chem. Phys. 105, 2726–2734 (1996).
-
-
- 
-
-Ochsenfeld, C., White, C. A. & Head-Gordon, M. Linear and sublinear scaling formation of Hartree–Fock-type exchange matrices. J. Chem. Phys. 109, 1663–1669 (1998).
+1. Ochsenfeld, C., White, C. A. & Head-Gordon, M. **Linear and sublinear scaling formation of Hartree–Fock-type exchange matrices.** J. Chem. Phys. 109, 1663–1669 (1998).
 
 
  
