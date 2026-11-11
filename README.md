@@ -118,69 +118,33 @@ lucwieners@physik.uni-kassel.de
 
 1. Strout, D. L. & Scuseria, G. E. **A quantitative study of the scaling properties of the Hartree–Fock method.** J. Chem. Phys. 102, 8448–8452 (1995).
 
+1. Royant, A. et al. **X-ray structure of sensory rhodopsin II at 2.1-Å resolution.** Proc. Natl. Acad. Sci. 98, 10131–10136 (2001).
 
- 
+1. Whitten, J. L. **Gaussian lobe function expansions of Hartree–Fock solutions for the first-row atoms and ethylene.** J. Chem. Phys. 44, 359–364 (1966).
 
-Royant, A. et al. X-ray structure of sensory rhodopsin II at 2.1-Å resolution. Proc. Natl. Acad. Sci. 98, 10131–10136 (2001).
+1. Tan, J. et al. **Structural basis of the bacterial flagellar motor rotational switching.** Cell Res. 34, 788–801 (2024).
 
+1. Guerra, P. et al. **Symmetry disruption commits vault particles to disassembly.** Sci. Adv. 8, eabj7795 (2022).
 
- 
+1. Müller, C., Sharma, M. & Sierka, M. **Real-time time-dependent density functional theory using density fitting and the continuous fast multipole method.** J. Comput. Chem. 41, 2573–2582 (2020).
 
-Whitten, J. L. Gaussian lobe function expansions of Hartree–Fock solutions for the first-row atoms and ethylene. J. Chem. Phys. 44, 359–364 (1966).
+1. Liu, Y. et al. **Ultra-fast computation of excited-states spectra for large systems: ultraviolet and fluorescence spectra of proteins.** Interdiscip. Sci. Comput. Life Sci. 13, 140–146 (2021).
 
+1. Miao, L. et al. **The anti-quorum sensing activity and bioactive substance of a marine derived Streptomyces.** Biotechnol. Biotechnol. Equip. 31, 1007–1015 (2017).
 
- 
+1. Ozdemir, A., Sarioglu, O. F. & Tekinay, T. **Spectroscopic evaluation of DNA–borate interactions.** Biol. trace Elem. Res. 168, 508–515 (2015).
 
-Tan, J. et al. Structural basis of the bacterial flagellar motor rotational switching. Cell Res. 34, 788–801 (2024).
+1. Toader, A. M., Dascalu, I. & Enache, M. **Effect of SDS Micelles on Actinomycin D-DNA Complexes.** Acta Chim. Slov. 69, 331–335 (2022).
 
+1. David, A., Islam, S., Tankhilevich, E. & Sternberg, M. J. **The AlphaFold database of protein structures: a biologist’s guide.** J. Mol. Biol. 434, 167336 (2022).
 
- 
+1. Dill, K. A., Ozkan, S. B., Shell, M. S. & Weikl, T. R. **The protein folding problem.** Annu. Rev. Biophys. 37, 289–316 (2008).
 
-Guerra, P. et al. Symmetry disruption commits vault particles to disassembly. Sci. Adv. 8, eabj7795 (2022).
+1. Berman, H. M. et al. **The protein data bank.** Nucleic Acids Res. 28, 235–242 (2000).
 
-Müller, C., Sharma, M. & Sierka, M. Real-time time-dependent density functional theory using density fitting and the continuous fast multipole method. J. Comput. Chem. 41, 2573–2582 (2020).
+1. Ruff, K. M. & Pappu, R. V. **AlphaFold and implications for intrinsically disordered proteins.** J. Mol. Biol. 433, 167208 (2021).
 
-
- 
-
-Liu, Y. et al. Ultra-fast computation of excited-states spectra for large systems: ultraviolet and fluorescence spectra of proteins. Interdiscip. Sci. Comput. Life Sci. 13, 140–146 (2021).
-
-
- 
-
-Miao, L. et al. The anti-quorum sensing activity and bioactive substance of a marine derived Streptomyces. Biotechnol. Biotechnol. Equip. 31, 1007–1015 (2017).
-
-
- 
-
-Ozdemir, A., Sarioglu, O. F. & Tekinay, T. Spectroscopic evaluation of DNA–borate interactions. Biol. trace Elem. Res. 168, 508–515 (2015).
-
-
- 
-
-Toader, A. M., Dascalu, I. & Enache, M. Effect of SDS Micelles on Actinomycin D-DNA Complexes. Acta Chim. Slov. 69, 331–335 (2022).
-
-David, A., Islam, S., Tankhilevich, E. & Sternberg, M. J. The AlphaFold database of protein structures: a biologist’s guide. J. Mol. Biol. 434, 167336 (2022).
-
-
- 
-
-Dill, K. A., Ozkan, S. B., Shell, M. S. & Weikl, T. R. The protein folding problem. Annu. Rev. Biophys. 37, 289–316 (2008).
-
-
- 
-
-Berman, H. M. et al. The protein data bank. Nucleic Acids Res. 28, 235–242 (2000).
-
-
- 
-
-Ruff, K. M. & Pappu, R. V. AlphaFold and implications for intrinsically disordered proteins. J. Mol. Biol. 433, 167208 (2021).
-
-
- 
-
-Koch, D. et al. The analysis of electron densities: from basics to emergent applications. Chem. Rev. 124, 12661–12737 (2024).
+1. Koch, D. et al. **The analysis of electron densities: from basics to emergent applications.** Chem. Rev. 124, 12661–12737 (2024).
 
 
  
