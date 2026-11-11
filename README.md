@@ -49,70 +49,41 @@ lucwieners@physik.uni-kassel.de
 ## References
 
 1. Hrebík, D. et al. **Structure and genome ejection mechanism of Staphylococcus aureus phage P68.** Sci. Adv. 5, eaaw7414 (2019).
+
 1. Jumper, J. et al. **Highly accurate protein structure prediction with AlphaFold.** Nature 596, 583–589 (2021).
+
 1. Thota, N. A., Li, X. H., Bingman, C. & Sundaralingam, M. **High-resolution refinement of the hexagonal A-DNA octamer d (GTGTACAC) at 1.4 Å.** Biol. Crystallogr. 49, 282–291 (1993).
+
 1. Masliah, G., René, B., Zargarian, L., Fermandjian, S. & Mauffret, O. **Identification of intrinsic dynamics in a DNA sequence preferentially cleaved by topoisomerase II enzyme.** J. Mol. Biol. 381, 692–706 (2008).
+
 1. Schäfer, M., Sheldrick, G. M., Bahner, I. & Lackner, H. **Crystal structures of actinomycin D and actinomycin Z3.** Angew. Chem. Int. Ed. 37, 2381–2384 (1998).
 
+1. Hou, M. H., Robinson, H., Gao, Y. G. & Wang, A. H. J. **Crystal structure of actinomycin D bound to the CTG triplet repeat sequences linked to neurological diseases.** Nucleic Acids Res. 30, 4910–4917 (2002).
 
- 
+1. Van Der Spoel, D. et al. **GROMACS: fast, flexible, and free.** J. Comput. Chem. 26, 1701–1718 (2005).
 
-Hou, M. H., Robinson, H., Gao, Y. G. & Wang, A. H. J. Crystal structure of actinomycin D bound to the CTG triplet repeat sequences linked to neurological diseases. Nucleic Acids Res. 30, 4910–4917 (2002).
+1. Case, D. A. et al. **The Amber biomolecular simulation programs.** J. Comput. Chem. 26, 1668–1688 (2005).
 
+1. Vanommeslaeghe, K. et al. **CHARMM general force field: a force field for drug-like molecules compatible with the CHARMM all-atom additive biological force fields.** J. Comput. Chem. 31, 671–690 (2010).
 
- 
+1. Senn, H. M. & Thiel, W. **QM/MM methods for biomolecular systems.** Angew. Chem. Int. Ed. 48, 1198–1229 (2009).
 
-Van Der Spoel, D. et al. GROMACS: fast, flexible, and free. J. Comput. Chem. 26, 1701–1718 (2005).
+1. Dauber-Osguthorpe, P. & Hagler, A. T. **Biomolecular force fields: where have we been, where are we now, where do we need to go and how do we get there?** J. Comput. Aided Mol. Des. 33, 133–203 (2019).
 
+1. Soler, J. M. et al. **The SIESTA method for ab initio order-N materials simulation.** J. Phys.: Condens. Matter 14, 2745 (2002).
 
- 
+1. Neese, F. **The ORCA program system. Wiley Interdiscip.** Rev. Comput. Mol. Sci. 2, 73–78 (2012).
 
-Case, D. A. et al. The Amber biomolecular simulation programs. J. Comput. Chem. 26, 1668–1688 (2005).
+1. Schade, R. et al. **Towards electronic structure-based ab-initio molecular dynamics simulations with hundreds of millions of atoms.** Parallel Comput. 111, 102920 (2022).
 
+1. Stocks, R. et al. **Breaking the million-electron and 1 EFLOP/s barriers: biomolecular-Scale ab initio molecular dynamics using MP2 potentials.** In SC24: International Conference for High Performance Computing, Networking, Storage and Analysis 1–12 (IEEE, 2024).
 
- 
+1. Andermatt, S., Cha, J., Schiffmann, F. & VandeVondele, J. **Combining linear-scaling DFT with subsystem DFT in Born–Oppenheimer and Ehrenfest molecular dynamics simulations: From molecules to a virus in solution.** J. Chem. Theory Comput. 12, 3214–3227 (2016).
 
-Vanommeslaeghe, K. et al. CHARMM general force field: a force field for drug-like molecules compatible with the CHARMM all-atom additive biological force fields. J. Comput. Chem. 31, 671–690 (2010).
-
-
- 
-
-Senn, H. M. & Thiel, W. QM/MM methods for biomolecular systems. Angew. Chem. Int. Ed. 48, 1198–1229 (2009).
-
-
- 
-
-Dauber-Osguthorpe, P. & Hagler, A. T. Biomolecular force fields: where have we been, where are we now, where do we need to go and how do we get there? J. Comput. Aided Mol. Des. 33, 133–203 (2019).
+1. Mohr, S. et al. **Accurate and efficient linear scaling DFT calculations with universal applicability.** Phys. Chem. Chem. Phys. 17, 31360–31370 (2015).
 
 
- 
-
-Soler, J. M. et al. The SIESTA method for ab initio order-N materials simulation. J. Phys.: Condens. Matter 14, 2745 (2002).
-
-
- 
-
-Neese, F. The ORCA program system. Wiley Interdiscip. Rev. Comput. Mol. Sci. 2, 73–78 (2012).
-
-
-
-Schade, R. et al. Towards electronic structure-based ab-initio molecular dynamics simulations with hundreds of millions of atoms. Parallel Comput. 111, 102920 (2022).
-
- 
-
-Stocks, R. et al. Breaking the million-electron and 1 EFLOP/s barriers: biomolecular-Scale ab initio molecular dynamics using MP2 potentials. In SC24: International Conference for High Performance Computing, Networking, Storage and Analysis 1–12 (IEEE, 2024).
-
-Andermatt, S., Cha, J., Schiffmann, F. & VandeVondele, J. Combining linear-scaling DFT with subsystem DFT in Born–Oppenheimer and Ehrenfest molecular dynamics simulations: From molecules to a virus in solution. J. Chem. Theory Comput. 12, 3214–3227 (2016).
-
-
- 
-
-Mohr, S. et al. Accurate and efficient linear scaling DFT calculations with universal applicability. Phys. Chem. Chem. Phys. 17, 31360–31370 (2015).
-
-
- 
-
-de Luzuriaga, I. O. et al. Semi-empirical and linear-scaling DFT methods to characterize duplex DNA and G-quadruplexes in the presence of interacting small molecules. Phys. Chem. Chem. Phys. 24, 11510–11519 (2022).
+1. de Luzuriaga, I. O. et al. **Semi-empirical and linear-scaling DFT methods to characterize duplex DNA and G-quadruplexes in the presence of interacting small molecules.** Phys. Chem. Chem. Phys. 24, 11510–11519 (2022).
 
 
  
