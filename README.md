@@ -100,43 +100,23 @@ lucwieners@physik.uni-kassel.de
 
 1. Ochsenfeld, C., White, C. A. & Head-Gordon, M. **Linear and sublinear scaling formation of Hartree–Fock-type exchange matrices.** J. Chem. Phys. 109, 1663–1669 (1998).
 
+1. Vashishta, P., Kalia, R. K. & Nakano, A. **Multimillion atom simulations of dynamics of oxidation of an aluminum nanoparticle and nanoindentation on ceramics.** J. Phys. Chem. B 110, 3727–3733 (2006).
 
- 
+1. Ordejón, P., Artacho, E. & Soler, J. M. **Self-consistent order-N density-functional calculations for very large systems.** Phys. Rev. B 53, R10441 (1996).
 
-Vashishta, P., Kalia, R. K. & Nakano, A. Multimillion atom simulations of dynamics of oxidation of an aluminum nanoparticle and nanoindentation on ceramics. J. Phys. Chem. B 110, 3727–3733 (2006).
+1. Fonseca Guerra, C., Snijders, J. G., Te Velde, G. T. & Baerends, E. J. **Towards an order-N DFT method.** Theor. Chem. Acc. 99, 391–403 (1998).
 
+1. Goletto, L., Kjønstad, E. F., Folkestad, S. D., Høyvik, I. M. & Koch, H. **Linear-scaling implementation of multilevel Hartree–Fock theory.** J. Chem. Theory Comput. 17, 7416–7427 (2021).
 
+1. Nakata, A. et al. **Large scale and linear scaling DFT with the CONQUEST code.** J. Chem. Phys. 152, 164112 (2020).
 
-Ordejón, P., Artacho, E. & Soler, J. M. Self-consistent order-N density-functional calculations for very large systems. Phys. Rev. B 53, R10441 (1996).
+1. Bowler, D. R. & Miyazaki, T. **Calculations for millions of atoms with density functional theory: linear scaling shows its potential.** J. Phys. Condens. Matter 22, 074207 (2010).
 
+1. Varnay, I., Truffault, V., Kessler, H. & Coles, M., **Solution structure of Ph1500: a homohexameric protein centered on a 12-bladed beta-propeller** https://doi.org/10.2210/pdb2M3X/pdb (2013).
 
- 
+1. Meng, E. C. et al. **UCSF ChimeraX: tools for structure building and analysis.** Protein Sci. 32, e4792 (2023).
 
-Fonseca Guerra, C., Snijders, J. G., Te Velde, G. T. & Baerends, E. J. Towards an order-N DFT method. Theor. Chem. Acc. 99, 391–403 (1998).
-
-
- 
-
-Goletto, L., Kjønstad, E. F., Folkestad, S. D., Høyvik, I. M. & Koch, H. Linear-scaling implementation of multilevel Hartree–Fock theory. J. Chem. Theory Comput. 17, 7416–7427 (2021).
-
-
- 
-
-Nakata, A. et al. Large scale and linear scaling DFT with the CONQUEST code. J. Chem. Phys. 152, 164112 (2020).
-
-Bowler, D. R. & Miyazaki, T. Calculations for millions of atoms with density functional theory: linear scaling shows its potential. J. Phys. Condens. Matter 22, 074207 (2010).
-
-
- 
-
-Varnay, I., Truffault, V., Kessler, H. & Coles, M., Solution structure of Ph1500: a homohexameric protein centered on a 12-bladed beta-propeller https://doi.org/10.2210/pdb2M3X/pdb (2013).
-
-Meng, E. C. et al. UCSF ChimeraX: tools for structure building and analysis. Protein Sci. 32, e4792 (2023).
-
-
- 
-
-Strout, D. L. & Scuseria, G. E. A quantitative study of the scaling properties of the Hartree–Fock method. J. Chem. Phys. 102, 8448–8452 (1995).
+1. Strout, D. L. & Scuseria, G. E. **A quantitative study of the scaling properties of the Hartree–Fock method.** J. Chem. Phys. 102, 8448–8452 (1995).
 
 
  
