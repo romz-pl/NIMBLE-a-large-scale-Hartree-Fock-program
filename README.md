@@ -146,172 +146,99 @@ lucwieners@physik.uni-kassel.de
 
 1. Koch, D. et al. **The analysis of electron densities: from basics to emergent applications.** Chem. Rev. 124, 12661–12737 (2024).
 
+1. Felder, C. E., Prilusky, J., Silman, I. & Sussman, J. L. **A server and database for dipole moments of proteins.** Nucleic acids Res. 35, 512–521 (2007).
 
- 
+1. Kulik, M. & Dominiak, P. M. **Electron density is not spherical: the many applications of the transferable aspherical atom model.** Comput. Struct. Biotechnol. J. 20, 6237–6243 (2022).
 
-Felder, C. E., Prilusky, J., Silman, I. & Sussman, J. L. A server and database for dipole moments of proteins. Nucleic acids Res. 35, 512–521 (2007).
+1. Rackers, J. A., Tecot, L., Geiger, M. & Smidt, T. E. **A recipe for cracking the quantum scaling limit with machine learned electron densities.** Mach. Learn. Sci. Technol. 4, 015027 (2023).
 
+1. Liu, X., Patel, A. & Chow, E. **A new scalable parallel algorithm for Fock matrix construction.** In Proc. IEEE 28th International Parallel and Distributed Processing Symposium 902–914 (IEEE, 2014).
 
- 
+1. Umeda, H. et al. **Parallel Fock matrix construction with distributed shared memory model for the FMO-MO method.** J. Comput. Chem. 31, 2381–2388 (2010).
 
-Kulik, M. & Dominiak, P. M. Electron density is not spherical: the many applications of the transferable aspherical atom model. Comput. Struct. Biotechnol. J. 20, 6237–6243 (2022).
+1. Chow, E., Liu, X., Smelyanskiy, M. & Hammond, J. R. **Parallel scalability of Hartree–Fock calculations.** J. Chem. Phys. 142, 104103 (2015).
 
+1. Petke, J. D., Whitten, J. L. & Douglas, A. W. **Gaussian lobe function expansions of Hartree–Fock solutions for the second-row atoms.** J. Chem. Phys. 51, 256–262 (1969).
 
-Rackers, J. A., Tecot, L., Geiger, M. & Smidt, T. E. A recipe for cracking the quantum scaling limit with machine learned electron densities. Mach. Learn. Sci. Technol. 4, 015027 (2023).
+1. Helgaker, T. & Taylor, P. R. **Gaussian basis sets and molecular integrals.** Modern Electronic Structure Theory: Part II 725–856 (World Scientific, 1995).
 
+1. Gill, P. M. **Molecular integrals over gaussian basis functions.** In Advances in Quantum Chemistry Vol. 25, 141–205 (Academic Press, 1994).
 
-Liu, X., Patel, A. & Chow, E. A new scalable parallel algorithm for Fock matrix construction. In Proc. IEEE 28th International Parallel and Distributed Processing Symposium 902–914 (IEEE, 2014).
+1. Dupuis, M., Rys, J. & King, H. F. **Evaluation of molecular integrals over Gaussian basis functions.** J. Chem. Phys. 65, 111–116 (1976).
 
-Umeda, H. et al. Parallel Fock matrix construction with distributed shared memory model for the FMO-MO method. J. Comput. Chem. 31, 2381–2388 (2010).
+1. Pople, J. A. & Hehre, W. J. **Computation of electron repulsion integrals involving contracted Gaussian basis functions.** J. Comput. Phys. 27, 161–168 (1978).
 
+1. Yasuda, K. **Two-electron integral evaluation on the graphics processor unit.** J. Comput. Chem. 29, 334–342 (2008).
 
- 
+1. Pritchard, B. P., Altarawy, D., Didier, B., Gibson, T. D. & Windus, T. L. **New basis set exchange: an open, up-to-date resource for the molecular sciences community.** J. Chem. Inf. Model. 59, 4814–4820 (2019).
 
-Chow, E., Liu, X., Smelyanskiy, M. & Hammond, J. R. Parallel scalability of Hartree–Fock calculations. J. Chem. Phys. 142, 104103 (2015).
+1. Virtanen, P. et al. **SciPy 1.0: fundamental algorithms for scientific computing in Python.** Nat. methods 17, 261–272 (2020).
 
-Petke, J. D., Whitten, J. L. & Douglas, A. W. Gaussian lobe function expansions of Hartree–Fock solutions for the second-row atoms. J. Chem. Phys. 51, 256–262 (1969).
+1. Abramowitz, M. & Stegun, I. A. (eds) **Handbook of Mathematical Functions with Formulas, Graphs, and Mathematical Tables** Vol. 55 (US Government Printing Office, 1968).
 
+1. Neese, F., Wennmohs, F., Becker, U. & Riplinger, C. **The ORCA quantum chemistry program package.** J. Chem. Phys. 152, 224108 (2020).
 
- 
+1. Neese, F. **Software update: the ORCA program system, version 4.0.** Wiley Interdiscip. Rev. Comput. Mol. Sci. 8, e1327 (2018).
 
-Helgaker, T. & Taylor, P. R. Gaussian basis sets and molecular integrals. Modern Electronic Structure Theory: Part II 725–856 (World Scientific, 1995).
+1. Neese, F. **Software update: the ORCA program system—Version 5.0.** Wiley Interdiscip. Rev. Comput. Mol. Sci. 12, e1606 (2022).
 
-Gill, P. M. Molecular integrals over gaussian basis functions. In Advances in Quantum Chemistry Vol. 25, 141–205 (Academic Press, 1994).
+1. Neese, F. **The SHARK integral generation and digestion system.** J. Comput. Chem. 44, 381–396 (2023).
 
-Dupuis, M., Rys, J. & King, H. F. Evaluation of molecular integrals over Gaussian basis functions. J. Chem. Phys. 65, 111–116 (1976).
+1. Neese, F. **Approximate second-order SCF convergence for spin unrestricted wavefunctions.** Chem. Phys. Lett. 325, 93–98 (2000).
 
+1. Humphrey, W., Dalke, A. & Schulten, K. **VMD: visual molecular dynamics.** J. Mol. Graph. 14, 33–38 (1996).
 
+1. Wu, X., Xie, X. & Troisi, A. **Calibration of several first excited state properties for organic molecules through systematic comparison of TDDFT with experimental spectra.** J. Mater. Chem. C. 12, 18886–18892 (2024).
 
-Pople, J. A. & Hehre, W. J. Computation of electron repulsion integrals involving contracted Gaussian basis functions. J. Comput. Phys. 27, 161–168 (1978).
+1. Jacquemin, D., Perpete, E. A., Scuseria, G. E., Ciofini, I. & Adamo, C. **TD-DFT performance for the visible absorption spectra of organic dyes: conventional versus long-range hybrids.** J. Chem. theory Comput. 4, 123–135 (2008).
 
+1. Savitzky, A. & Golay, M. J. **Smoothing and differentiation of data by simplified least squares procedures.** Anal. Chem. 36, 1627–1639 (1964).
 
- 
+1. Pettersen, E. F. et al. **UCSF Chimera—a visualization system for exploratory research and analysis.** J. Comput. Chem. 25, 1605–1612 (2004).
 
-Yasuda, K. Two-electron integral evaluation on the graphics processor unit. J. Comput. Chem. 29, 334–342 (2008).
+1. Van Rossum, G. & Drake Jr F. L. **Python Tutorial** Vol. 620 (Centrum voor Wiskunde en Informatica, 1995).
 
+1. Lam, S. K., Pitrou, A. & Seibert, S. **Numba: A llvm-based python jit compiler.** In Proc. Second Workshop on the LLVM Compiler Infrastructure in HPC 1–6 (ACM, 2015).
 
- 
+1. Harris et al. **Array programming with NumPy.** Nature 585, 357–362 (2020).
 
-Pritchard, B. P., Altarawy, D., Didier, B., Gibson, T. D. & Windus, T. L. New basis set exchange: an open, up-to-date resource for the molecular sciences community. J. Chem. Inf. Model. 59, 4814–4820 (2019).
+1. Paszke, A. et al. **Pytorch: An imperativestyle, high-performance deep learning library.** Advances in Neural Information Processing Systems 32 (NeurIPS, 2019).
 
+1. Hunter, J. D. **Matplotlib: A 2D graphics environment.** Comput. Sci. Eng. 9, 90–95 (2007).
 
- 
+1. Royant, A. et al. **Sensory rhodopsin II** https://doi.org/10.2210/pdb1H68/pdb (2001).
 
-Virtanen, P. et al. SciPy 1.0: fundamental algorithms for scientific computing in Python. Nat. methods 17, 261–272 (2020).
+1. Dominik, H., Karel, S., Fuzik, T. & Plevka, P. **Structure of native bacteriophage P68** https://doi.org/10.2210/pdb6Q3G/pdb (2018).
 
+1. Schafer, M., Sheldrick, G. M., Bahner, I. & Lackner, H. **Crystal structure of Actinomycin D** https://doi.org/10.2210/pdb1A7Y/pdb (1998).
 
- 
+1. Thota, N., Li, X. H., Bingman, C. A. & Sundaralingam, M. **High resolution refinement of the hexagonal A-DNA octamer D(GTGTACAC) at 1.4 Angstroms resolution** https://doi.org/10.2210/pdb1D79/pdb (1992).
 
-Abramowitz, M. & Stegun, I. A. (eds) Handbook of Mathematical Functions with Formulas, Graphs, and Mathematical Tables Vol. 55 (US Government Printing Office, 1968).
+1. Masliah, G. & Mauffret, O. **NMR Structure of a 21 bp DNA duplex preferentially cleaved by Human Topoisomerase II** https://doi.org/10.2210/pdb2JYK/pdb (2007).
 
-Neese, F., Wennmohs, F., Becker, U. & Riplinger, C. The ORCA quantum chemistry program package. J. Chem. Phys. 152, 224108 (2020).
+1. Hou, M.-H., Robinson, H., Gao, Y.-G. & Wang, A. H.-J. **Actinomycin D binding to ATGCTGCAT** https://doi.org/10.2210/pdb1MNV/pdb (2002).
 
-Neese, F. Software update: the ORCA program system, version 4.0. Wiley Interdiscip. Rev. Comput. Mol. Sci. 8, e1327 (2018).
+1. Tan, J. X., Zhang, L., Zhou, Y. & Zhu, Y. Q. **Cryo-EM structure of the membrane-anchored part of the flagellar motor-hook complex in the CW state** https://doi.org/10.2210/pdb8WL2/pdb (2023).
 
- 
+1. Guerra, P. et al. **Vault structure in primmed conformation** https://doi.org/10.2210/pdb7PKR/pdb (2021).
 
-Neese, F. Software update: the ORCA program system—Version 5.0. Wiley Interdiscip. Rev. Comput. Mol. Sci. 12, e1606 (2022).
+1. Pettersen, E. F. et al. **UCSF ChimeraX: structure visualization for researchers, educators, and developers.** Protein Sci. 30, 70–82 (2021).
 
+1. Goddard, T. D. et al. **UCSF ChimeraX: meeting modern challenges in visualization and analysis.** Protein Sci. 27, 14–25 (2018).
 
- 
+1. Sehnal, D. et al. **Mol Viewer: modern web app for 3D visualization and analysis of large biomolecular structures.** Nucleic Acids Res. 49, 431–437 (2021).
 
-Neese, F. The SHARK integral generation and digestion system. J. Comput. Chem. 44, 381–396 (2023).
+1. Pugliese, L., Coda, A., Malcovati, M. & Bolognesi, M. **Three-dimensional structure of the tetragonal crystal form of egg-white avidin in its functional complex with biotin at 2.7 Å resolution.** J. Mol. Biol. 231, 698–710 (1993).
 
-r
- 
+1. Pugliese, L., Coda, A., Malcovati, M. & Bolognesi, M. **Three-dimensional structure of the tetragonal crystal form of egg-white avidin in its functional complex with biotin at 2.7 Angstroms resolution** https://doi.org/10.2210/pdb1AVD/pdb (1993).
 
-Neese, F. Approximate second-order SCF convergence for spin unrestricted wavefunctions. Chem. Phys. Lett. 325, 93–98 (2000).
+1. Wilson, K. P. et al. **Comparative X-ray structures of the major binding protein for the immunosuppressant FK506 (tacrolimus) in unliganded form and in complex with FK506 and rapamycin.** Biol. Crystallogr. 51, 511–521 (1995).
 
+1. Wilson, K. P., Sintchak, M. D., Thomson, J. A. & Navia, M. A. **Atomic structure of FKBP12-FK506, an immunophilin immunosuppressant complex** https://doi.org/10.2210/pdb1FKJ/pdb (1995).
 
- 
+1. General, I. J., Dragomirova, R. & Meirovitch, H. **Absolute free energy of binding of avidin/biotin, revisited.** J. Phys. Chem. B 116, 6628–6636 (2012).
 
-Humphrey, W., Dalke, A. & Schulten, K. VMD: visual molecular dynamics. J. Mol. Graph. 14, 33–38 (1996).
-
-
-
-Wu, X., Xie, X. & Troisi, A. Calibration of several first excited state properties for organic molecules through systematic comparison of TDDFT with experimental spectra. J. Mater. Chem. C. 12, 18886–18892 (2024).
-
-
- 
-
-Jacquemin, D., Perpete, E. A., Scuseria, G. E., Ciofini, I. & Adamo, C. TD-DFT performance for the visible absorption spectra of organic dyes: conventional versus long-range hybrids. J. Chem. theory Comput. 4, 123–135 (2008).
-
-
- 
-
-Savitzky, A. & Golay, M. J. Smoothing and differentiation of data by simplified least squares procedures. Anal. Chem. 36, 1627–1639 (1964).
-
-
- 
-
-Pettersen, E. F. et al. UCSF Chimera—a visualization system for exploratory research and analysis. J. Comput. Chem. 25, 1605–1612 (2004).
-
-
- 
-
-Van Rossum, G. & Drake Jr F. L. Python Tutorial Vol. 620 (Centrum voor Wiskunde en Informatica, 1995).
-
-Lam, S. K., Pitrou, A. & Seibert, S. Numba: A llvm-based python jit compiler. In Proc. Second Workshop on the LLVM Compiler Infrastructure in HPC 1–6 (ACM, 2015).
-
-Harris et al. Array programming with NumPy. Nature 585, 357–362 (2020).
-
-
- 
-
-Paszke, A. et al. Pytorch: An imperativestyle, high-performance deep learning library. Advances in Neural Information Processing Systems 32 (NeurIPS, 2019).
-
-Hunter, J. D. Matplotlib: A 2D graphics environment. Comput. Sci. Eng. 9, 90–95 (2007).
-
-
-
-Royant, A. et al. Sensory rhodopsin II https://doi.org/10.2210/pdb1H68/pdb (2001).
-
-Dominik, H., Karel, S., Fuzik, T. & Plevka, P. Structure of native bacteriophage P68 https://doi.org/10.2210/pdb6Q3G/pdb (2018).
-
-Schafer, M., Sheldrick, G. M., Bahner, I. & Lackner, H. Crystal structure of Actinomycin D https://doi.org/10.2210/pdb1A7Y/pdb (1998).
-
-Thota, N., Li, X. H., Bingman, C. A. & Sundaralingam, M. High resolution refinement of the hexagonal A-DNA octamer D(GTGTACAC) at 1.4 Angstroms resolution https://doi.org/10.2210/pdb1D79/pdb (1992).
-
-Masliah, G. & Mauffret, O. NMR Structure of a 21 bp DNA duplex preferentially cleaved by Human Topoisomerase II https://doi.org/10.2210/pdb2JYK/pdb (2007).
-
-Hou, M.-H., Robinson, H., Gao, Y.-G. & Wang, A. H.-J. Actinomycin D binding to ATGCTGCAT https://doi.org/10.2210/pdb1MNV/pdb (2002).
-
-Tan, J. X., Zhang, L., Zhou, Y. & Zhu, Y. Q. Cryo-EM structure of the membrane-anchored part of the flagellar motor-hook complex in the CW state https://doi.org/10.2210/pdb8WL2/pdb (2023).
-
-Guerra, P. et al. Vault structure in primmed conformation https://doi.org/10.2210/pdb7PKR/pdb (2021).
-
-Pettersen, E. F. et al. UCSF ChimeraX: structure visualization for researchers, educators, and developers. Protein Sci. 30, 70–82 (2021).
-
-Goddard, T. D. et al. UCSF ChimeraX: meeting modern challenges in visualization and analysis. Protein Sci. 27, 14–25 (2018).
-
-
- 
-
-Sehnal, D. et al. Mol* Viewer: modern web app for 3D visualization and analysis of large biomolecular structures. Nucleic Acids Res. 49, 431–437 (2021).
-
-
- 
-
-Pugliese, L., Coda, A., Malcovati, M. & Bolognesi, M. Three-dimensional structure of the tetragonal crystal form of egg-white avidin in its functional complex with biotin at 2.7 Å resolution. J. Mol. Biol. 231, 698–710 (1993).
-
-
- 
-
-Pugliese, L., Coda, A., Malcovati, M. & Bolognesi, M. Three-dimensional structure of the tetragonal crystal form of egg-white avidin in its functional complex with biotin at 2.7 Angstroms resolution https://doi.org/10.2210/pdb1AVD/pdb (1993).
-
-Wilson, K. P. et al. Comparative X-ray structures of the major binding protein for the immunosuppressant FK506 (tacrolimus) in unliganded form and in complex with FK506 and rapamycin. Biol. Crystallogr. 51, 511–521 (1995).
-
-
- 
-
-Wilson, K. P., Sintchak, M. D., Thomson, J. A. & Navia, M. A. Atomic structure of FKBP12-FK506, an immunophilin immunosuppressant complex https://doi.org/10.2210/pdb1FKJ/pdb (1995).
-
-General, I. J., Dragomirova, R. & Meirovitch, H. Absolute free energy of binding of avidin/biotin, revisited. J. Phys. Chem. B 116, 6628–6636 (2012).
-
-
- 
-
-Rivera, A. & Heitman, J. Natural product ligands of FKBP12: immunosuppressive antifungal agents FK506, rapamycin, and beyond. PLoS Pathog. 19, e1011056 (2023).
+1. Rivera, A. & Heitman, J. **Natural product ligands of FKBP12: immunosuppressive antifungal agents FK506, rapamycin, and beyond.** PLoS Pathog. 19, e1011056 (2023).
 
 
   
